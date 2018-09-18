@@ -1,4 +1,4 @@
 # EDGE-Neural-Network-Library
-Artificial Neural Network library in C#, that provides .NET developers  a collection of tools for statistical analysis, modeling, regression or incorporate AI solutions into their projects. 
+Edge is an Artificial Neural Network library in C#, that provides .NET developers an easy way to make use of ANNs (such as FeedForward, Recurrent Networks etc.) to perform clustering, regression, classification or any other form of pattern recognition in their projects without having to understand the underlying clockwork of ANNs.
 
-The library follows advanced principles of Object Oriented Programming design and it's high cohesion and low coupling makes it easy for users to use ANNs for .NET development without having to understand the underlying clockwork of ANNs.
+The library follows advanced principles of Object Oriented Programming design and it's high cohesion and low coupling makes it an easy to understand and easy to use library.
