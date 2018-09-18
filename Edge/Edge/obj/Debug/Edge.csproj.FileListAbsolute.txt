@@ -1,0 +1,14 @@
+C:\Users\Ruhan\Desktop\Edge\Edge\bin\Debug\Edge.exe.config
+C:\Users\Ruhan\Desktop\Edge\Edge\bin\Debug\Edge.exe
+C:\Users\Ruhan\Desktop\Edge\Edge\bin\Debug\Edge.pdb
+C:\Users\Ruhan\Desktop\Edge\Edge\obj\Debug\Edge.csprojResolveAssemblyReference.cache
+C:\Users\Ruhan\Desktop\Edge\Edge\obj\Debug\Edge.exe
+C:\Users\Ruhan\Desktop\Edge\Edge\obj\Debug\Edge.pdb
+C:\Users\Ruhan\Desktop\Edge\Edge\obj\Debug\Edge.csproj.ResolveComReference.cache
+C:\Users\Ruhan\Desktop\OpenNN-master\Edge\Edge\bin\Debug\Edge.exe.config
+C:\Users\Ruhan\Desktop\OpenNN-master\Edge\Edge\obj\Debug\Edge.csproj.ResolveComReference.cache
+C:\Users\Ruhan\Desktop\OpenNN-master\Edge\Edge\obj\Debug\Edge.exe
+C:\Users\Ruhan\Desktop\OpenNN-master\Edge\Edge\obj\Debug\Edge.pdb
+C:\Users\Ruhan\Desktop\OpenNN-master\Edge\Edge\bin\Debug\Edge.exe
+C:\Users\Ruhan\Desktop\OpenNN-master\Edge\Edge\bin\Debug\Edge.pdb
+C:\Users\Ruhan\Desktop\OpenNN-master\Edge\Edge\obj\Debug\Edge.csprojResolveAssemblyReference.cache
